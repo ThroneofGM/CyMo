@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66176624163",
+    "project_id": "cymo-b9943",
+    "storage_bucket": "cymo-b9943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66176624163:android:10bdfa2f98135360d13396",
+        "android_client_info": {
+          "package_name": "com.notice_center.cymo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66176624163-u46ch19tb56o6hbpb39cav17jo4osdaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMsONyL1QsODWu3v0ZkBbBEHqwRmDfyDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66176624163-u46ch19tb56o6hbpb39cav17jo4osdaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

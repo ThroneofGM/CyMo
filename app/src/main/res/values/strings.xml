@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CyMo</string>
+    <string name="admin_sign_in">Admin Sign in</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

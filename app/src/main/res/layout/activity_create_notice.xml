@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e6e6fa"
+    tools:context=".CreateNotice">
+
+    <LinearLayout
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="75sp">
+
+        <EditText
+            android:id="@+id/title_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter the Title here"
+            android:minHeight="48dp" />
+
+        <EditText
+            android:id="@+id/desc_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Description here... "
+            android:layout_marginTop="20sp"
+            android:paddingBottom="50sp"/>
+        <Button
+            android:id="@+id/generatePDF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Generate Notice"
+            android:layout_marginTop="20sp"/>
+    </LinearLayout>
+
+
+
+
+
+
+
+
+</RelativeLayout>
+

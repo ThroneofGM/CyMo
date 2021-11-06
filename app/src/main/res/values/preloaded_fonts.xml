@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aguafina_script</item>
+        <item>@font/audiowide</item>
+        <item>@font/trade_winds</item>
+        <item>@font/unica_one</item>
+        <item>@font/vast_shadow</item>
+        <item>@font/walter_turncoat</item>
+        <item>@font/yeseva_one</item>
+        <item>@font/yesteryear</item>
+        <item>@font/zeyada</item>
+    </array>
+</resources>
